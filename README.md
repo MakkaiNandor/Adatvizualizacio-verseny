@@ -1,2 +1,2 @@
-# Adatvizualizacio-verseny
-II. adatvizualizációs verseny
+# Adatvizualizáció
+Pályamunka a II. székelydata adatvizualizációs versenyre
