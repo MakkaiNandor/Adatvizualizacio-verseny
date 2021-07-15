@@ -1,6 +1,6 @@
 # Adatvizualizáció
 
-Pályamunka a II. székelydata adatvizualizációs versenyre.
+Pályamunka a **II. székelydata** adatvizualizációs versenyre.
 
 Magyarország és Románia időjárás–állomásai által mért 2019–es adatok tisztítása, szűrése, feldolgozása, majd ezek vizualizálása.
 
